@@ -81,10 +81,10 @@ img {
 }
 .header-nav-item {
   font-weight: 500;
-  padding: 24px 0;
 }
 .header-nav-link {
   color: #2e2f42;
+  padding: 24px 0;
 }
 .header-nav-link:hover,
 .header-nav-link:focus,
